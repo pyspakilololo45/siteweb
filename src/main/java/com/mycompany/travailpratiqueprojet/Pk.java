@@ -9,5 +9,7 @@ package com.mycompany.travailpratiqueprojet;
  * @author USER
  */
 public class Pk {
-    
+    String nom;
+    String prenom;
+    String age;
 }
